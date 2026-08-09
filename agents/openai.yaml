@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo to Postage Stamp"
+  short_description: "Turn photos into authentic postage stamps."
+  default_prompt: "Use $photo-to-postage-stamp to turn my photo into a vintage ink-wash stamp."

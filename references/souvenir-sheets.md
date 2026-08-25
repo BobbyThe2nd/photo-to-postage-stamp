@@ -1,6 +1,21 @@
 # Souvenir sheets and stamp panes
 
-Create a single coherent printed issue, not a dashboard or an ordinary contact sheet. Use realistic perforation geometry, consistent paper grain, and enough clean margin around every stamp.
+Create a single coherent printed issue, not a dashboard or an ordinary contact sheet. Use the default `PUNCHED_HOLE_CONNECTOR_CUT` system from [perforations.md](perforations.md), consistent paper grain, and enough clean margin around every stamp.
+
+## Perforation structure
+
+Treat perforation as a physical cut system rather than a decorative dotted outline. Show circular punched voids connected by short straight incision segments, with very narrow paper bridges keeping an attached pane coherent. Give every hole only a microscopically narrow compressed rim, exposed paper fiber, and a hairline recessed shadow tightly confined to the cut edge. Do not create a broad white halo, glow, bloom, or thick embossed ring. Shared interior rows must form one common boundary between adjacent stamps; never draw two parallel perforation rows or a blank gutter between them.
+
+The perimeter of a souvenir sheet or miniature sheet is not a stamp edge. Keep it as a normal straight-cut rectangular paper edge with no holes, scallops, or connector cuts. Only the inset stamp or stamp block receives perforations.
+
+## Stamp orientation
+
+Choose stamp orientation from the source image and the subject's dominant visual flow:
+
+- For a landscape source or a subject whose identity depends on horizontal breadth, use a horizontal stamp and preserve the wide composition.
+- For a portrait source or a subject whose identity depends on vertical height, use a vertical stamp.
+- For a square or ambiguous source, choose the orientation that preserves the subject with the least destructive cropping and the clearest postal-text hierarchy.
+- Apply this decision independently to the inset stamp in an integrated souvenir sheet and to stamps in variety or definitive panes. Do not default to vertical merely because it is a traditional stamp format.
 
 ## Three-layout issue set
 
@@ -14,7 +29,7 @@ For one uploaded image, use it as the hero subject in all three sheets. Use the 
 
 ## 1. Integrated souvenir sheet
 
-Use one full-page illustration as the thematic background. Perforate one large stamp directly from this same background: the landscape, colors, and perspective must continue seamlessly inside and outside the perforated boundary. Never paste a separate stamp panel beside the background or show a duplicate hero subject outside the stamp. Add only a small neutral issue title and optional `PHOTO DETAILS: UNVERIFIED` outside the stamp when facts are unavailable.
+Use one full-page illustration as the thematic background. Choose the inset stamp's orientation from the source: horizontal for landscape material and vertical for portrait material. Perforate that stamp directly from the same background so the landscape, colors, and perspective continue seamlessly inside and outside its boundary. Keep the surrounding sheet perimeter straight and unperforated. Never paste a separate stamp panel beside the background or show a duplicate hero subject outside the stamp. Add only a small neutral issue title and optional `PHOTO DETAILS: UNVERIFIED` outside the stamp when facts are unavailable.
 
 ## 2. Variety pane
 
@@ -34,3 +49,5 @@ For a realistic issue, derive country from verified photo location. If country r
 - Use a neutral issue line such as `WHITE DUCK ISSUE` only when useful.
 - Do not make the sheet look like a product UI, stamp album, or collage. Use one visual theme and restrained supporting typography.
 - Preserve the uploaded subject faithfully, but do not place the unaltered original photo on the sheet unless the user explicitly asks for it.
+- Match stamp orientation to the source composition, and keep the outer edge of souvenir sheets and miniature sheets straight and free of perforations.
+- Reject any visible white glow or broad pale ring around perforation holes; tactile depth must remain microscopic and local to the cut edge.

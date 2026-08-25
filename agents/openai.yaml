@@ -1,4 +1,4 @@
 interface:
   display_name: "Photo to Postage Stamp"
-  short_description: "Turn photos into authentic postage stamps."
-  default_prompt: "Use $photo-to-postage-stamp to turn my uploaded photo directly into three finished postage-stamp issue layouts."
+  short_description: "Create handmade stamps, postcards, and source-to-art comparisons."
+  default_prompt: "Use $photo-to-postage-stamp to turn my uploaded image into a finished postal issue or a front-and-back postcard set. When I ask for hand-drawn color, use the calm solid-wash doodle or blue-pencil field-sketch style, and add a source-versus-translation diptych when I request a before/after comparison."

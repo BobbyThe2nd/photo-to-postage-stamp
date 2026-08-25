@@ -25,19 +25,19 @@
 
 一枚纵向邮票直接从连续的主题画面中切出，邮票内外共享同一幅蓝铅笔观察图，不在背景中重复粘贴主体。
 
-![DREAM VOYAGE 整合型纪念张](../../output/dream-voyage-issue/stamp-01-integrated-souvenir-sheet.png)
+![DREAM VOYAGE 整合型纪念张](examples/dream-voyage-issue/stamp-01-integrated-souvenir-sheet.png)
 
 ### 2. 四风格小版张
 
 同一主体以四种兼容的印刷语言呈现：蓝铅笔田野速写、平涂手绘、清晰线冒险漫画和砖红色象形图。四枚邮票仍共享统一的纸张、配色与主题背景。
 
-![DREAM VOYAGE 四风格小版张](../../output/dream-voyage-issue/stamp-02-variety-pane.png)
+![DREAM VOYAGE 四风格小版张](examples/dream-voyage-issue/stamp-02-variety-pane.png)
 
 ### 3. 重复普通票版张
 
 上方为 `2 × 2` 重复邮票，下方保留独立的船体和风帆结构研究图，使成品兼具正式发行秩序与设计过程感。
 
-![DREAM VOYAGE 重复普通票版张](../../output/dream-voyage-issue/stamp-03-definitive-pane.png)
+![DREAM VOYAGE 重复普通票版张](examples/dream-voyage-issue/stamp-03-definitive-pane.png)
 
 ## 明信片套装
 
@@ -45,25 +45,25 @@
 
 明信片正面采用横向 `148:100` 比例。它从原作重新构图，而不是放大邮票或直接套用照片；主体以蓝铅笔线和克制的透明色层呈现。
 
-![DREAM VOYAGE 明信片正面](../../output/dream-voyage-issue/postcard-01-front.png)
+![DREAM VOYAGE 明信片正面](examples/dream-voyage-issue/postcard-01-front.png)
 
 ### 背面
 
 背面与正面保持完全相同的尺寸和比例，包含分隔线、邮票框、四条地址线和一个由叶片风帆提炼的小型轮廓图案，并保留充足书写区域。
 
-![DREAM VOYAGE 明信片背面](../../output/dream-voyage-issue/postcard-02-back.png)
+![DREAM VOYAGE 明信片背面](examples/dream-voyage-issue/postcard-02-back.png)
 
 ### 正反面设计展示海报
 
 展示海报以完整且等尺寸的正反面卡片为主层，背景使用从手势草图到结构线稿的设计过程纸。卡片可以轻微旋转和叠放，但不得通过改变尺寸制造层级。
 
-![DREAM VOYAGE 明信片正反面展示海报](../../output/dream-voyage-issue/postcard-03-presentation-poster.png)
+![DREAM VOYAGE 明信片正反面展示海报](examples/dream-voyage-issue/postcard-03-presentation-poster.png)
 
 ### 独立原图对比展示图
 
 每套明信片额外输出一张独立对比展示图。本案例采用纵向 `3:4` 画幅和暖白 / 象牙白纸张背景；未经重绘的横版原照片置于上方，并以自然纸胶带固定，生成的明信片正面完整放置于下方。两者均保持原始比例，不拉伸、不裁切，也不使用商业化桌面道具。
 
-![DREAM VOYAGE 原图与明信片对比展示图](../../output/dream-voyage-issue/postcard-04-source-comparison.png)
+![DREAM VOYAGE 原图与明信片对比展示图](examples/dream-voyage-issue/postcard-04-source-comparison.png)
 
 ## 本案例的完整交付物
 

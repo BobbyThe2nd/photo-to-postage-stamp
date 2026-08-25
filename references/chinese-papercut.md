@@ -2,6 +2,10 @@
 
 Use `SCHEME_CHIN_PAPERCUT` as a physically plausible cut-paper system, not as red line art, lace, engraving, or a dense decorative filter.
 
+## Shared cut-paper material language
+
+Paper-related schemes may share the refined physical cues used by `SCHEME_EDITORIAL_LAYERED_PAPERCUT`: matte cardstock, subtle visible fibers, clean but slightly handmade cut edges, and natural diffuse light. For this Chinese folk scheme, keep those cues quiet and preserve a mostly flat connected-sheet construction. A slight edge lift or very soft local contact darkening may reveal that the work is real cut paper, but it must not become stacked paper sculpture, plastic 3D, foam board, or a dramatic craft mockup. Curled strips, folds, and separated layers belong primarily to the editorial layered scheme unless the user explicitly asks for a hybrid.
+
 ## Visual model
 
 - Treat the image as a folk narrative made from solid paper and open air. The positive paper mass and the negative cutouts must both describe the subject.
@@ -44,7 +48,7 @@ Choose the system that best fits the subject rather than forcing every image int
 - No narrow bridges that appear impossible to cut or too fragile to remain attached.
 - No repeated Greek-key, snake, worm, insect, scale, cellular, or maze-like filler patterns.
 - No vector-perfect mirroring, uniformly spaced decorative perforations, generic floral filler, or identical repeated motifs.
-- No drawn outlines inside silhouettes, fake ink strokes, embossed edges, paper-layer shadows, or 3D craft mockup effects.
+- No drawn outlines inside silhouettes, fake ink strokes, embossed edges, dramatic paper-layer shadows, or 3D craft mockup effects. Restrained physical edge lift and soft contact darkening are allowed only when they do not break the single-sheet reading.
 - Do not outline every source detail. If a detail does not strengthen silhouette or structure, remove it.
 
 The result should read immediately as an expressive hand-cut folk image from a normal viewing distance: bold but not crude, detailed only where the cuts explain identity, action, connection, or rhythm.

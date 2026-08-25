@@ -41,6 +41,18 @@ Build one new postcard idea from those elements. Do not paste, enlarge, frame, o
 - Use smooth, continuous watercolor or ink gestures when the source is painterly. Avoid stippled dots, granular blotches, mottled clusters, scab-like texture, and dense repeated marks unless the selected scheme explicitly requires them.
 - Use a clear typography hierarchy: one primary title and, when useful, one much smaller secondary line. Keep exact requested wording legible.
 
+### Reusable editorial typography
+
+- Keep the primary title subordinate to the subject. Prefer a modern minimalist sans serif, moderate weight, and controlled tracking; target roughly 4–7% of the postcard height rather than a poster-scale headline.
+- When editorial detail benefits the composition, add two to four very small auxiliary text groups derived from the subject's identity, action, material, location, direction, category, or composition. Never invent facts, coordinates, dates, or status labels.
+- Use thin type, wide tracking, short phrases, and clear size contrast. Align micro-type to a subject axis, paper or color edge, silhouette, baseline, or negative-space boundary.
+- Allow at most one deliberate direction change, such as one vertical group among horizontal groups. Avoid scattered labels, competing rotations, oversized titles, pseudo-language, and text that covers the identifying subject.
+- Reuse this hierarchy across postcard styles while adapting the typeface, ink behavior, and integration method to the selected scheme. Hand-drawn styles may keep handmade lettering; formal or paper-based styles may use precise modern typography.
+
+### Paper-based postcards
+
+For paper-cut, cut-card, folded-paper, or paper-sculpture treatments, use the shared physical material language defined in [editorial-layered-papercut.md](editorial-layered-papercut.md): refined matte cardstock, subtle fibers, clean handmade cuts, purposeful folds or curls, and soft localized contact shadows. Preserve each scheme's structural identity: `SCHEME_CHIN_PAPERCUT` remains a flatter connected-sheet folk cut, while `SCHEME_EDITORIAL_LAYERED_PAPERCUT` may use separate pieces and dimensional layers.
+
 ### Blue-pencil field-sketch postcards
 
 When using `SCHEME_BLUE_PENCIL_FIELD_SKETCH`, read [blue-pencil-field-sketch.md](blue-pencil-field-sketch.md). Recompose the subject as one generous observational scene rather than enlarging a finished stamp. Let pale construction arcs, scale studies, and one or two incomplete alternate gestures occupy the quiet areas without competing with the resolved subject. Carry only one small blue-pencil emblem or open contour onto the functional back. On the presentation poster, use the same drawing process as the subordinate background sheet so the complete front and back appear to rest over the designer's actual working page.
